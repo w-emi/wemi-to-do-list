@@ -1,0 +1,27 @@
+.container {
+  max-width: 60%;
+  margin: 10% auto;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 50px;
+  background: #d622e2;
+}
+.to-do {
+  margin: 0px auto;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 50px;
+  max-width: 50%;
+  background: #fff;
+}
+.my-list {
+  height: 250px;
+  padding: 15%;
+  border: none;
+}
+#add-btn {
+  position: relative;
+  left: 20%;
+  cursor: pointer;
+  transition: all 150ms ease-in-out;
+}
